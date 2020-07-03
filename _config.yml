@@ -3,4 +3,5 @@ description: iOS Developer.
 show_title: true
 google_analytics:
 theme: jekyll-theme-cayman
+remote_theme: chrisrhymes/bulma-clean-theme
 linkedin_url: https://www.linkedin.com/in/thiago-f-alves/
