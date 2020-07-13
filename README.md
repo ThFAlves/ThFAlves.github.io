@@ -39,7 +39,6 @@ devlopr uses Markdown Files to create data like Blog Posts, Gallery, Shop Produc
 - SEO-optimized
 - Real Time Search using [Algolia](https://algolia.com/)
 - Sell Stuff (Ecommerce) in your Blog using [Snipcart](https://snipcart.com/)
-- Contact Forms using [Formspree](https://formspree.io/)
 - Coding Activity using [Wakatime](https://wakatime.com/)
 - Hosting Support for [Github Pages](https://pages.github.com), [Netlify](https://netlify.com), [Zeit](https://zeit.co), [Heroku](https://heroku.com), [AWS Amplify](aws.amplify.com), [Firebase](https://firebase.com)
 - CI/CD Support using [Travis CI](https://sujaykundu.com/blog/posts/deploy-jekyll-blog-using-github-pages-and-travis-ci/), Buddy , Circle CI
@@ -119,10 +118,6 @@ Contributions are more than just welcome. Fork this repo and create a new branch
 Thanks to all our Backers ! 🙏 [Become a Backer](https://opencollective.com/devlopr-jekyll#backer)
 
 <a href="https://opencollective.com/devlopr-jekyll#backers" target="_blank"><img src="https://opencollective.com/devlopr-jekyll/backers.svg?width=890" /></a>
-
-### For Help :
-
-You can contact me, if you need any help via [Email](mailto:sujaykundu777@gmail.com). If you like the project. Don't forget to :star: !
 
 ## Licence
 
