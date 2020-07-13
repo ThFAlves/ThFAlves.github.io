@@ -47,10 +47,6 @@ You can easily manage the site locally using the Jekyll admin : [http://localhos
 
 ![Jekyll Admin](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/jekyll-admin.PNG?raw=true)
 
-## Release Changes :
-
-You can check out the latest changes [here](https://www.buymeacoffee.com/p/57109)
-
 ## Using Docker :
 
 Building the Image :
@@ -84,25 +80,6 @@ Stop the app :
 Once everything is good and ready to go live -
 
 `docker-compose -f docker-compose-prod.yml up --build --detach`
-
-## Contributors:
-
-This project exists thanks to all the people who contribute.
-
-Contributions are more than just welcome. Fork this repo and create a new branch, then submit a pull request
-
-- 1.Fork it [http://github.com/sujaykundu777/devlopr-jekyll/fork](http://github.com/sujaykundu777/devlopr-jekyll/fork )
-
-- 2.Create your feature branch
-`git checkout -b my-new-feature`
-
-- 3.Commit your changes
-`git commit -am 'Add some feature'`
-
-- 4.Push to the branch
-`git push origin my-new-feature`
-
-- 5.Create new Pull Request
 
 ### Backers
 

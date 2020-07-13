@@ -47,10 +47,6 @@ You can easily manage the site locally using the Jekyll admin : [http://localhos
 
 ![Jekyll Admin](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/jekyll-admin.PNG?raw=true)
 
-## Release Changes :
-
-You can check out the latest changes [here](https://www.buymeacoffee.com/p/57109)
-
 ## Using Docker :
 
 Building the Image :

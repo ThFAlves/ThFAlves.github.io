@@ -115,10 +115,6 @@ paginate_path: "/blog/page/:num/"
 #   permalinks:
 #     category: '/category/:name/'
 
-# Shop
-collections:
- - products
-
 # Gallery
 defaults:
   -
