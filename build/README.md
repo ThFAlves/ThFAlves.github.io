@@ -37,7 +37,6 @@ devlopr uses Markdown Files to create data like Blog Posts, Gallery, Shop Produc
 - Stylesheet built using Sass
 - Comments using [Hyvor](https://talk.hyvor.com/) and [Disqus](https://disqus.com/)
 - SEO-optimized
-- Real Time Search using [Algolia](https://algolia.com/)
 - Sell Stuff (Ecommerce) in your Blog using [Snipcart](https://snipcart.com/)
 - Coding Activity using [Wakatime](https://wakatime.com/)
 - Hosting Support for [Github Pages](https://pages.github.com), [Netlify](https://netlify.com), [Zeit](https://zeit.co), [Heroku](https://heroku.com), [AWS Amplify](aws.amplify.com), [Firebase](https://firebase.com)
@@ -47,14 +46,6 @@ devlopr uses Markdown Files to create data like Blog Posts, Gallery, Shop Produc
 You can easily manage the site locally using the Jekyll admin : [http://localhost:4000/admin](http://localhost:4000/admin)
 
 ![Jekyll Admin](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/jekyll-admin.PNG?raw=true)
-
-#### Search Configuration
-
-Replace *_algolia_api_key* content with your algolia's app Admin API key and run to index blog posts:
-
-`jekyll algolia`
-
-For more info : [Docs here](https://sujaykundu.com/jekyll/2020/06/18/how-to-add-realtime-search-to-your-devlopr-jekyll-blog-using-jekyll-algolia/)
 
 ## Release Changes :
 
